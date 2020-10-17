@@ -1,0 +1,25 @@
+div{
+background-color: black;
+color: yellow;
+front-family :verdana;
+font-size:20px;
+padding: 40px;
+margin:auto;
+
+  height: 150px;
+  width: 400px;
+outline-style: ridge;
+}
+
+div:hover {
+  background-color: blue;
+
+}
+
+h1 {
+  text-decoration: underline;
+  text-transform: capitalize;
+  text-indent: 50px;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px red;
+}
